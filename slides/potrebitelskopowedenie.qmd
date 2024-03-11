@@ -1,0 +1,195 @@
+---
+title: "Потребителско поведение"
+author: "Александър Косулиев"
+format:
+  revealjs:
+    chalkboard:
+      theme: whiteboard
+    theme: default
+    width: 1600
+    height: 900
+    margin: 0.1
+    
+editor: visual
+---
+
+
+## Крива на безразличие
+
+::: {layout="[ 40, 60 ]"}
+::: {#first-column}
+
+:::
+
+::: {#second-column}
+![](figure/l3_indif_curve.png){width="100%"}
+:::
+:::
+
+## Крива на безразличие - пределна степен на заместване
+
+::: {layout="[ 40, 60 ]"}
+::: {#first-column}
+
+:::
+
+::: {#second-column}
+![](figure/l3_indif_curve_MRS.png){width="100%"}
+:::
+:::
+
+
+
+## Криви на безразличието
+
+::: {layout="[ 40, 60 ]"}
+::: {#first-column}
+
+:::
+
+::: {#second-column}
+![](figure/l3_indif_curve_shift.png){width="100%"}
+:::
+:::
+
+
+## Криви на безразличие, отразяващи различни предпочитания
+
+::: {layout="[ 40, 60 ]"}
+::: {#first-column}
+IC_1 - предпочитание към Y
+
+IC_2 - предпочитание към X
+:::
+
+::: {#second-column}
+![](figure/l3_curves_different_preferences.png){width="100%"}
+:::
+:::
+
+
+
+
+
+## Линия на бюджетното ограничение
+
+::: {layout="[ 40, 60 ]"}
+::: {#first-column}
+
+:::
+
+::: {#second-column}
+![](figure/l3_budget_line.png){width="100%"}
+:::
+:::
+
+
+
+## Бюджетно ограничение - промяна в цената на Х
+
+::: {layout="[ 40, 60 ]"}
+::: {#first-column}
+
+:::
+
+::: {#second-column}
+![](figure/l3_budget_line_price_change.png){width="100%"}
+:::
+:::
+
+
+## Бюджетно ограничение - промяна в бюджета
+
+::: {layout="[ 40, 60 ]"}
+::: {#first-column}
+
+:::
+
+::: {#second-column}
+![](figure/l3_budget_line_change.png){width="100%"}
+:::
+:::
+
+
+
+## Модел на потребителския избор
+
+::: {layout="[ 40, 60 ]"}
+::: {#first-column}
+
+:::
+
+::: {#second-column}
+![](figure/l3_consumer_choice_model.png){width="100%"}
+:::
+:::
+
+
+
+## Модел на потребителския избор - промяна в цената на X
+
+::: {layout="[ 40, 60 ]"}
+::: {#first-column}
+
+:::
+
+::: {#second-column}
+![](figure/l3_consumer_choice_change.png){width="100%"}
+:::
+:::
+
+
+
+
+## Ефект на заместване и ефект на дохода
+
+::: {layout="[ 40, 60 ]"}
+::: {#first-column}
+
+:::
+
+::: {#second-column}
+![](figure/l3_income_and_substitution.png){width="100%"}
+:::
+:::
+
+
+## Модел на потребителския избор - ценова субсидия за X
+
+::: {layout="[ 40, 60 ]"}
+::: {#first-column}
+
+:::
+
+::: {#second-column}
+![](figure/l3_price_subsidy.png){width="100%"}
+:::
+:::
+
+
+
+
+
+## Сравнение на ценова субсидия и субсидия на дохода
+
+::: {layout="[ 40, 60 ]"}
+::: {#first-column}
+
+:::
+
+::: {#second-column}
+![](figure/l3_price_and_income_subsidy.png){width="100%"}
+:::
+:::
+
+
+
+
+
+
+## Условия за валидност на модела
+
+
+- пълнота на предпочитанията
+- транзитивност
+- колкото повече, толкова по-добре
